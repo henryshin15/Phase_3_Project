@@ -27,7 +27,7 @@ This is a classification model project and
 - writeup/reporting
 
 ## Getting Started
-In order to get the dataset needed, we needed to sign up for the [competition] (https://www.drivendata.org/competitions/66/flu-shot-learning/data/).
+In order to get the dataset needed, we needed to sign up for the [competition](https://www.drivendata.org/competitions/66/flu-shot-learning/data/).
 
 ## Featured Notebooks and Presentation
 * [Notebook](https://github.com/Patrick-Arnold/Phase_3_Project/blob/main/Main_Notebook.ipynb)
