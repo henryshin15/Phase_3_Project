@@ -36,5 +36,5 @@ In order to get the dataset needed, we needed to sign up for the [competition] (
 ## Contributing Project Members
 |Name     |  Github Handle   | 
 |---------|-----------------|
-|[Patrick Arnold]|(https://github.com/Patrick-Arnold)|
-|[Henry Shin] |(https://github.com/henryshin15)|
+|Patrick Arnold|(https://github.com/Patrick-Arnold)|
+|Henry Shin |(https://github.com/henryshin15)|
